@@ -1,2 +1,2 @@
-console.log("I HATE U");
-// comment la las
+console.log("LIFE IS DEATH");
+console.log("WOW");
