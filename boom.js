@@ -1,1 +1,1 @@
-console.log("LIFE IS DEATH");
+console.log("I HATE U");
